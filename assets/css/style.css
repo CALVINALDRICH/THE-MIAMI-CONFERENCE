@@ -23,3 +23,37 @@ nav a, a.navbar-brand{
     padding-bottom: 30px!important;
     font-size: 24px ;
 }
+/* carousel */
+.main-slider img{
+    max-height: 80vh!important;
+    max-width: 200v78h!important;
+    
+}
+.carousel-item .carousel-caption{
+    background: linear-gradient(45deg,#EFCA08,#F49F0A,#F08700)
+}
+
+
+/* timetable */
+.timetable{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.timetable p.title{
+    background: linear-gradient(to left,#e09027, #f18921 ,#f8a35e);
+    color:#fdfdfd;
+    padding: 16px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.timetable img{
+    width: 100px;
+    height: 100px;
+    /* from 50% it will be round shape */
+    border-radius: 50%;
+    }
+
+    .row-x{
+        padding: 20px;
+    }
