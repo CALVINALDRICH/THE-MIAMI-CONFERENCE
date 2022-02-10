@@ -57,3 +57,35 @@ nav a, a.navbar-brand{
     .row-x{
         padding: 20px;
     }
+    .btn-custom{
+        background: linear-gradient(to left,#e09027, #f18921 ,#f8a35e);
+        border-radius: 0% IM !important ;
+        color: #fdfdfd;
+    }
+    .btn-custom:hover{
+        background: linear-gradient( to right,#e09027, #f18921 ,#f8a35e);
+        transition: .7s,ease-in-out;
+        color: #fdfdfd;
+    }
+    .call-to-action{
+        background-image: url('../images/daniil-komov-eafpg2fonZg-unsplash.jpg'); 
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .py-10{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .prank{
+        background:#51E5FF;
+    }
+    .indifinite{
+        background: #CAE5FF;
+    }
+    .title.pop{
+        padding-bottom: 20px;
+    }
+    footer.upper-footer{
+        background-color: #22183d;
+    }
